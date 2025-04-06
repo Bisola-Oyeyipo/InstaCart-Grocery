@@ -17,3 +17,47 @@ use simpler price range groupings to help direct their efforts.
 ● Are there certain types of products that are more popular than others? The marketing
 and sales teams want to know which departments have the highest frequency of
 product orders.
+
+# Dataset
+
+Products
+
+Orders
+
+Customers
+
+Department
+
+Orders_Products_prior
+
+# Tools Used
+
+Python was used for the analysis of this project. And there was additional libraries used which are;
+
+i. Pandas: Used for data analysis.
+
+ii. Seaborn: Used for data visualization.
+
+iii. Matplotlib: Used for data visualization.
+
+Iv. Numpy: Used for mathematical equation.
+
+v. Scipy: Used for equations.
+
+
+# Folders
+The project files are divided between the following folders:
+
+i. Project Management: Project Brief and Data Dictionary.
+
+ii. Data: it is divided into two subfolders (Original Data and Prepared Data). These contains the dataset in it original form. Prepared Data contains the dataset that have been cleaned and merged. (Data files not uploaded to GitHub due to size.)
+
+iii. Scripts: The Jupyter notebooks contain the code for the analysis.
+
+iv. Analysis: It contains the visualizations used for developing and explaining insights.
+
+v. Sent to Client: The final report presented in Excel.
+
+# Resources
+
+An open-source dataset from Instacart and customers dataset was added for the purpose of learning in this project for CareerFoundry.
